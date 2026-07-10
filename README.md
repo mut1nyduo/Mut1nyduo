@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mut1nyduo/Mut1nyduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="1261" height="1113" alt="image" src="https://github.com/user-attachments/assets/1a6382fd-f4bf-44e9-b39e-0bfc5f60ac05" />
