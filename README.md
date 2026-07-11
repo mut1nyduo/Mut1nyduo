@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1261" height="1113" alt="image" src="https://github.com/user-attachments/assets/1a6382fd-f4bf-44e9-b39e-0bfc5f60ac05" /> 
-
 <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+not+even+gonna+try+to+kill+you!" alt="Typing SVG" /></a>
+<img width="1261" height="1113" alt="image" src="https://github.com/user-attachments/assets/1a6382fd-f4bf-44e9-b39e-0bfc5f60ac05" /> 
+
+
   
 <p align="center"> 
   <a href="https://github.com/kittinan/spotify-github-profile"> 
