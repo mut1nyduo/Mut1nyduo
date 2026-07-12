@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C1AA7&width=435&lines=I+lay+my+sword+down+anyway" alt="Typing SVG" /></a>
 
-  
-<p align="center"> 
-  <a href="https://github.com/kittinan/spotify-github-profile"> 
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=true&theme=default&show_offline=false&background_color=5e315a&interchange=false&profanity=false&hide_remaster=false&bar_color=fff5b8"> 
-  </a> 
-</p> 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=true&theme=default&show_offline=false&background_color=341047&interchange=false&profanity=false&hide_remaster=false&bar_color=ffd500&bar_color_cover=false">
+  </a>
+</p>
