@@ -1,4 +1,3 @@
-sorry that my atabook is named zammbu im not leaving that behind jst because people dont like it sorry 
 
 <!--
 **mut1nyduo/Mut1nyduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
