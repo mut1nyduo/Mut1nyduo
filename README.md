@@ -1,6 +1,6 @@
   ![Github text](https://views.igorkowalczyk.dev/api/badge/Mut1nyduo?label=Mutinyduo+fans&color=yellow)
 
-<img align="left" alt="IMG_5889" src="https://github.com/user-attachments/assets/4664586d-af15-4906-9f42-b28d18b9e2a1" />
+<img align="left" alt="IMG_5890" src="https://github.com/user-attachments/assets/93ed0ad0-e2fc-4ee5-ba74-28369d5617f7" />
 
 
 
