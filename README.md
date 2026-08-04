@@ -1,6 +1,8 @@
   ![Github text](https://views.igorkowalczyk.dev/api/badge/Mut1nyduo?label=Mutinyduo+fans&color=yellow)
 
-<img align="left" alt="IMG_5855-ezgif com-resize" src="https://github.com/user-attachments/assets/cfe0d4e8-2d0e-4644-a9f0-035e41106f8f" />
+<img align="left" alt="IMG_5889" src="https://github.com/user-attachments/assets/4664586d-af15-4906-9f42-b28d18b9e2a1" />
+
+
 
 <p align="right">
 <img width="20" height="20" alt="star77" src="https://github.com/user-attachments/assets/3cde81cb-d0e7-4a61-b110-c45b4dfcf89e" />
