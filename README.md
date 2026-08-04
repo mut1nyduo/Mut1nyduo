@@ -1,4 +1,32 @@
-<p align="center">
- im redoing this you get to stare at my art in the meantime. as a treat.(these are my ocs guess who their based on) 
+  ![Github text](https://views.igorkowalczyk.dev/api/badge/Mut1nyduo?label=Mutinyduo+fans&color=yellow)
+
+<img align="left" alt="IMG_5855-ezgif com-resize" src="https://github.com/user-attachments/assets/cfe0d4e8-2d0e-4644-a9f0-035e41106f8f" />
+
+<p align="right">
+<img width="20" height="20" alt="star77" src="https://github.com/user-attachments/assets/3cde81cb-d0e7-4a61-b110-c45b4dfcf89e" />
+ $\color{#9774c4}{If~you~don't~want~to~be~lonely}$
 </p>
-<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/cf7c2035-a9cc-4512-873e-7ca184a404dc" />
+<img  alt="tumblr_064cb4b2989d3a803fd7a89b89b07748_dea6a018_2048-ezgif com-resize" src="https://github.com/user-attachments/assets/2c034b08-1278-4ce8-9354-021124e3af6d" />
+
+<p align="center">
+ $\color{#9774c4}{☆}$
+ <a href="https://laikapage.straw.page/">Strawp</a>   $\color{#c7b163}{☆}$
+  <a href="https://zammbu.atabook.org/">Ata</a>  $\color{#9774c4}{☆}$
+   <a href="https://pronouns.cc/@_Mosiquito">Prnscc</a>  $\color{#c7b163}{☆}$
+</p>
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=8b799a&interchange=true&profanity=false&hide_remaster=false&bar_color=bfc087&bar_color_cover=false">
+  </a>
+</p>
+
+<img  alt="IMG_5888-ezgif com-resize" src="https://github.com/user-attachments/assets/10f13ada-20cf-4fad-adf0-3f3af1f7c613" />
+<p align="left">
+$\color{#c7b163}{then~I~can~be~your~man}$ <img width="20" height="20" alt="butterfly18" src="https://github.com/user-attachments/assets/84a4a15c-264c-4906-b422-dde1e0a75e89" />
+
+</p>
